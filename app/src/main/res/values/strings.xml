@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Calcul IMC</string>
+    <string name="titre">Calcul de l\'IMC</string>
+    <string name="hint_poids">Poids en kg</string>
+    <string name="hint_taille">Taille en m (ou en cm)</string>
+    <string name="bouton_calculer">Calculer</string>
+    <string name="bouton_effacer">Effacer</string>
+    <string name="bouton_partager">Partager le résultat</string>
+    <string name="libelle_imc">IMC : %1$s</string>
+    <string name="erreur_champ_vide">Veuillez compléter ce champ</string>
+    <string name="erreur_valeur_invalide">Veuillez saisir une valeur strictement positive</string>
+    <string name="erreur_nombre">Veuillez saisir un nombre valide</string>
+    <string name="message_completer">Veuillez compléter les informations</string>
+    <string name="categorie_insuffisance">Insuffisance pondérale</string>
+    <string name="categorie_normale">Corpulence normale</string>
+    <string name="categorie_surpoids">Surpoids</string>
+    <string name="categorie_obesite_moderee">Obésité modérée</string>
+    <string name="categorie_obesite_severe">Obésité sévère</string>
+    <string name="categorie_obesite_morbide">Obésité morbide</string>
+    <string name="texte_partage">Mon IMC est de %1$s : %2$s.</string>
+    <string name="titre_partage">Partager via</string>
+    <string name="remarque">L\'IMC est utilisé ici comme support de programmation. Son interprétation ne remplace pas un avis médical.</string>
 </resources>

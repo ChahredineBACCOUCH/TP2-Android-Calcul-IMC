@@ -2,5 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primary">#FF3F51B5</color>
+    <color name="primary">#FF00897B</color>
+    <color name="gris">#FF616161</color>
+    <!-- Couleurs des catégories d'IMC -->
+    <color name="imc_orange">#FFEF6C00</color>
+    <color name="imc_vert">#FF2E7D32</color>
+    <color name="imc_rouge">#FFD32F2F</color>
+    <color name="imc_rouge_fonce">#FF8E0000</color>
 </resources>
